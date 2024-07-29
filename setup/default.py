@@ -6,3 +6,4 @@ import ast
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 pd.set_option('display.max_columns', None)
+tqdm.pandas()
