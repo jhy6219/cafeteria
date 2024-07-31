@@ -331,6 +331,7 @@ XO	NNG
 백	NNG
 즉석	NNG
 사천	NNG
+국물	NNG
 로스트	NNG
 몽골리안	NNG
 중화식	NNG
