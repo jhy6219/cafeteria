@@ -46,9 +46,7 @@
 백숙	NNG
 모밀	NNG
 잠발라야	NNG
-불고기	NNG
 메밀	NNG
-갈비	NNG
 화이타	NNG
 냉	NNG
 덮	NNG
@@ -264,6 +262,7 @@
 표고	NNG
 어린잎	NNG
 에그	NNG
+소보로	NNG
 먹물	NNG
 라구	NNG
 낙삼새	NNG
