@@ -72,6 +72,7 @@
 막	NNG
 솥	NNG
 탄탄	NNG
+쌀	NNG
 감자	NNG
 갓	NNG
 갓김치	NNG
@@ -277,7 +278,6 @@
 백숙	NNG
 아라비아따	NNG
 생선	NNG
-미트소스	NNG
 어글	NNG
 대파	NNG
 삼치	NNG
